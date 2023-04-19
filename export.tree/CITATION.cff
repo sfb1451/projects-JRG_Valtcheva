@@ -1,0 +1,20 @@
+abstract: Understanding the neural circuits underlying different aspects of naturalistic
+  behaviors is critical for elucidating motor control in mammals. We are interested
+  in adult-infant interactions which consist of complex motor actions formed by sequences
+  of behavioral motifs. Parental behaviors are triggered by specific sensory cues
+  from the offspring and strongly influenced by internal states such as hormonal levels
+  in new mothers. We study maternal infant-oriented motor actions, naturally occurring
+  in mice, such as staying in the nest to nurse and retrieval of misplaced pups back
+  to the nest. We are using a variety of synaptic, circuit and behavior approaches
+  to uncover how sensory cues from mouse pups are integrated in the maternal brain
+  to drive hormonal release and state-dependent execution of mother-infant interactions.
+  Gaining mechanistic understanding about the mechanisms which establish this sensory-hormonal-motor
+  coupling can provide new therapeutical avenues not only for postpartum conditions
+  but also for motor and sensory recovery in neurodegenerative diseases.
+authors:
+- {family-names: Valtcheva, given-names: Silvana}
+- {family-names: Yang, given-names: Mingyu}
+- {family-names: Baumert, given-names: Kaya}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'JRG: Dr. Valtcheva'
